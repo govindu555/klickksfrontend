@@ -1,0 +1,46 @@
+.signmain{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.signmain2{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px blue;
+    padding: 40px;
+    text-align: center;
+}
+
+.signhead{
+    font-size: 40px;
+    color: blue;
+}
+
+.signitems{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.signitem{
+    font-size: 20px;
+}
+
+.signinput{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+}
+
+.sign{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+.err{
+    color: red;
+}

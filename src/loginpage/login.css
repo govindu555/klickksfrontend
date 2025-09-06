@@ -1,0 +1,47 @@
+.loginmain{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.loginmain2{
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px blue;
+    border-radius: 20px;
+    padding: 40px;
+    text-align: center;
+}
+
+.loginhead{
+    font-size: 40px;
+    color: blue;
+}
+
+.loginitems{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.loginitem{
+    font-size: 20px;
+}
+
+.logininput{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+}
+
+.login{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+}
+
+.err{
+    color: red;
+}

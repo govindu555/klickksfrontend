@@ -1,0 +1,54 @@
+.logoutmain{
+    width: 100vw;
+    position: fixed;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px lightgray;
+}
+
+.logouthead{
+    font-size: 30px;
+    color: blue;
+    margin-left: 20px;
+}
+
+.logout{
+    font-size: 25px;
+    color: red;
+    margin-right: 100px;
+}
+
+.logout:hover{
+    cursor: pointer;
+    background-color:lightgray;
+}
+
+.logoutmain2{
+    width: 10vw;
+    height: 90vh;
+    box-shadow: 2px 2px 2px lightgray;
+     position: fixed;
+    top: 100px;
+    text-align: center;
+}
+
+.logouthead2{
+    font-size: 20px;
+    color: blue;
+}
+
+.logouthead2:hover{
+    cursor: pointer;
+    background-color: lightgray;
+}
+
+.logoutmain3{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+span{
+    color: blue;
+}
